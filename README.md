@@ -115,7 +115,7 @@
 
 ## 🏆 GitHub Stats  
 
-![Atul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Upadhyay123a&show_icons=true&theme=tokyonight)  
+//![Atul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Upadhyay123a&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upadhyay123a&layout=compact&langs_count=8&theme=tokyonight&hide=css)  
 
 ---
