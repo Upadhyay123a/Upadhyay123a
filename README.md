@@ -4,9 +4,9 @@
 ---
 
 ## 🚀 About Me  
-🔹 Passionate **Full Stack Developer** skilled in **Java, Spring Boot, JavaScript, HTML, CSS, SQL, and PostgreSQL**.  
-🔹 **Equity Trader** with a strong understanding of **financial markets, stock analysis, and trading strategies**.  
-🔹 **Final Year B.Tech (CSE)** student with expertise in **Data Structures & Algorithms (Java, C)**.  
+🔹 Passionate **Full Stack Developer** skilled in **Java, Spring Boot, JavaScript, HTML, CSS, SQL, PostgreSQL, and MongoDB**.  
+🔹 **Equity Trader** with expertise in **financial markets, stock analysis, and trading strategies**.  
+🔹 **Final Year B.Tech (CSE)** student with strong **Data Structures & Algorithms (Java, C)** skills.  
 🔹 Currently **building a Groww-like investment platform** named **InvestWise** using **Java, Spring Boot, PostgreSQL, and JavaScript**.  
 
 💡 Always eager to explore new technologies and contribute to open-source projects.  
@@ -38,32 +38,77 @@
 
 ## 🔥 Projects  
 
-### **📌 InvestWise – Investment Platform (In Progress)**  
+### 📌 **InvestWise – Investment Platform (In Progress)**  
 - **Tech Stack:** Java 21, Spring Boot, PostgreSQL, MongoDB, HTML, CSS, JavaScript, SQL  
 - **Features:** Stock tracking, portfolio management, financial insights  
-- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/InvestWise)**
+- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/InvestWise)**  
 
-### **📌 Stock Management Application**  
+---
+
+### 📌 **Stock Management Application**  
 - **Tech Stack:** Java 21, Spring Boot, PostgreSQL, SQL, HTML, CSS, JavaScript  
 - **Features:**  
   - **CRUD Operations**: Add, update, delete, and retrieve stocks.  
   - **RESTful API**: Exposes endpoints for stock data management.  
   - **Database Management**: Uses **H2 for testing** and **PostgreSQL for production**.  
   - **Validation & Security**: Spring Boot Validation for input handling.  
-- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/Stock-Management-Application)** 
+- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/Stock-Management-Application)**  
 
-### **📌 Tour & Travel Website**  
+---
+
+### 📌 **Instagram Backend Application**  
+- **Tech Stack:** Java 21, Spring Boot, PostgreSQL, SQL, JWT, Spring Security  
+- **Features:**  
+  - **User Registration & Authentication**  
+  - **Post Creation & Image Uploading**  
+  - **Comments & Likes System**  
+  - **Follower System & User Profiles**  
+  - **Admin Dashboard for User & Post Management**  
+- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/instagram-backend)**
+
+---
+
+### 📌 **Restaurant Management System**  
+- **Tech Stack:** Java, Spring Boot, PostgreSQL, SQL, HTML, CSS, JavaScript  
+- **Features:**  
+  - **Role-Based Access Control** (Admin, User, Visitor)  
+  - **User Authentication & Authorization** (Spring Security + JWT)  
+  - **Food Item Management** (Add, Update, Delete)  
+  - **Order Management & Tracking**  
+  - **RESTful API with Swagger Documentation**  
+- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/restaurant-management-system)**  
+
+---
+
+### 📌 **Food Delivery Website**  
+- **Tech Stack:** React.js, JavaScript, HTML, CSS, Bootstrap, MongoDB  
+- **Features:**  
+  - **User Authentication** (Login & Signup)  
+  - **Menu Browsing & Food Ordering**  
+  - **Cart Management & Payment Integration**  
+  - **Order Tracking**  
+  - **Admin Dashboard** for managing users & food items  
+- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/food-delivery-website)**  
+
+---
+
+### 📌 **Tour & Travel Website**  
 - **Tech Stack:** HTML, CSS, JavaScript, MongoDB  
-- **Features:** Online booking, tour package management, dynamic user dashboard  
+- **Features:**  
+  - **Online Tour Booking & Travel Packages**  
+  - **Dynamic User Dashboard**  
+  - **Admin Panel for Tour Management**  
+  - **Payment Integration**  
 - **🔗 [GitHub Repo](https://github.com/Upadhyay123a/tour-management)**  
 
 ---
 
+
 ## 📬 Connect with Me  
-💼 **LinkedIn:** [https://www.linkedin.com/in/atul-kumar-upadhyay-676373211)  
+💼 **LinkedIn:** [Atul Upadhyay](https://www.linkedin.com/in/atul-kumar-upadhyay-676373211)  
 📧 **Email:** [atulupa@12345@gmail.com](mailto:atulupa@12345@gmail.com)  
 🐙 **GitHub:** [Upadhyay123a](https://github.com/Upadhyay123a)  
-📊 **LeetCode:** [https://leetcode.com/u/Atul_upadhyay_24/)  
+📊 **LeetCode:** [Atul Upadhyay](https://leetcode.com/u/Atul_upadhyay_24/)  
 
 ---
 
