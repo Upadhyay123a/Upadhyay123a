@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Atul Kumar Upadhyay!  
-**Full Stack Developer | Equity Trader | Final Year B.Tech CSE Student**   
+**Backend Developer(Java,Spring Boot) | Equity Trader | Final Year B.Tech CSE Student**   
 
 ---
 
