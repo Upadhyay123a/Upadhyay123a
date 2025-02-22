@@ -65,7 +65,7 @@
   - **Comments & Likes System**  
   - **Follower System & User Profiles**  
   - **Admin Dashboard for User & Post Management**  
-- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/instagram-backend)**
+- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/Instagram-Backend-Application)**
 
 ---
 
