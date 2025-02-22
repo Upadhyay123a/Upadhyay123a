@@ -42,7 +42,7 @@
 ### 📌 **InvestWise – Investment Platform (In Progress)**  
 - **Tech Stack:** Java 21, Spring Boot, PostgreSQL, MongoDB, HTML, CSS, JavaScript, SQL  
 - **Features:** Stock tracking, portfolio management, financial insights  
-- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/InvestWise)**  
+- **🔗 /*[GitHub Repo](https://github.com/Upadhyay123a/InvestWise)*/**  
 
 ---
 
