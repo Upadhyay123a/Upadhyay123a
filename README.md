@@ -77,7 +77,7 @@
   - **Food Item Management** (Add, Update, Delete)  
   - **Order Management & Tracking**  
   - **RESTful API with Swagger Documentation**  
-- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/restaurant-management-system)**  
+- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/Restaurant-Management-System)**  
 
 ---
 
