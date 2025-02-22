@@ -89,7 +89,7 @@
   - **Cart Management & Payment Integration**  
   - **Order Tracking**  
   - **Admin Dashboard** for managing users & food items  
-- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/food-delivery-website)**  
+- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/food-delivery-website-using-js)**  
 
 ---
 
