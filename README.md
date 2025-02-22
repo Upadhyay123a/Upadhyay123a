@@ -100,7 +100,7 @@
   - **Dynamic User Dashboard**  
   - **Admin Panel for Tour Management**  
   - **Payment Integration**  
-- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/tour-management)**  
+- **🔗 [GitHub Repo](https://github.com/Upadhyay123a/Tour-And-travel-website)**  
 
 ---
 
