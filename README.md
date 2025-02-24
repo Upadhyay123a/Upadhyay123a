@@ -10,7 +10,7 @@
 🔹 **Final Year B.Tech (CSE)** student with strong **Data Structures & Algorithms (Java, C)** skills.  
 🔹 Currently **building a Groww-like investment platform** named **InvestWise** using **Java, Spring Boot, PostgreSQL, and JavaScript**.  
 
-💡 Always eager to explore new technologies and contribute to open-source projects.  
+💡 Always eager to explore new technologies and contribute to open-source projects.
 
 ---
 
