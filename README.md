@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Atul Kumar Upadhyay!   
 **Backend Developer(Java,Spring Boot) | Equity Trader | Final Year B.Tech CSE Student**   
 
----  
+---   
 
 ## 🚀 About Me  
 🔹 Passionate **Backend Developer** skilled in **Java, Spring Boot, JavaScript, HTML, CSS, SQL, PostgreSQL, and MongoDB**.  
