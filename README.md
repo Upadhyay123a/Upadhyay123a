@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Atul Kumar Upadhyay!  
-**Backend Developer(Java,Spring Boot) | Equity Trader | B.Tech (2025) CSE Student**   
+**Backend Developer(Java,Spring Boot) | Equity Trader | (2025) B.Tech CSE Student**   
 
 ---
 
