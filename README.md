@@ -4,7 +4,7 @@
 ---          
 
 ## 🚀 About Me  
-🔹 Passionate **Full r** skilled in **Java, Spring Boot, JavaScript, HTML, CSS, SQL, PostgreSQL, and MongoDB**.  
+🔹 Passionate **Full Stack** skilled in **Java, Spring Boot, JavaScript, HTML, CSS, SQL, PostgreSQL, and MongoDB**.  
 
 🔹 **Equity Trader** with expertise in **financial markets, stock analysis, and trading strategies**.  
 🔹 **Final Year B.Tech (CSE)** student with strong **Data Structures & Algorithms (Java, C)** skills.  
