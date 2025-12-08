@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Atul Kumar Upadhyay!  
 **Full Stack Java Developer | Backend Developer(Java,Spring Boot) | Data Analyst | Equity Trader | B.Tech CSE Graduate (2025)**   
 
----  
+--- 
 
 ## 🚀 About Me  
 🔹 Passionate **Full Stack Java Developer** skilled in **Java, Spring Boot, JavaScript, React.js, HTML, CSS, SQL, PostgreSQL, and MongoDB**.  
