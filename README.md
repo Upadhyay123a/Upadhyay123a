@@ -4,7 +4,7 @@
 ---             
 
 ## 🚀 About Me  
-🔹 Passionate **Full Stack Java Developer** skilled in **Java, Spring Boot, JavaScript, React.js, HTML, CSS, SQL, PostgreSQL, Docker, and MongoDB**.  
+🔹 Passionate **Full Stack Java Developer** skilled in **Java, Spring Boot, JavaScript, React.js, HTML, CSS, SQL, PostgreSQL, Docker, C, GitHub, and MongoDB**.  
 
 🔹 **Equity Trader** with expertise in **financial markets, stock analysis, and trading strategies**.  
 🔹 **Final Year B.Tech (CSE)** student with strong **Data Structures & Algorithms (Java, C)** skills.  
