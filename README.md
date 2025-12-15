@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Atul Kumar Upadhyay!  
-**Full Stack Java Developer | Backend Developer(Java,Spring Boot,Sql) | Data Analyst | Equity specialist Trader | B.Tech CSE Graduate (2025)**   
+**Full Stack Java Developer | Backend Developer(Java,Spring Boot,Sql) | Data Analyst | Equity Trader | B.Tech CSE Graduate (2025)**   
 
 ---    
 
