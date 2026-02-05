@@ -107,7 +107,7 @@
 
 ## 📬 Connect with Me  
 💼 **LinkedIn:** [Atul Upadhyay](https://www.linkedin.com/in/atul-kumar-upadhyay-676373211)  
-📧 **Email:** [atulupa@12345@gmail.com](mailto:atulupa@12345@gmail.com)  
+📧 **Email:** [atulupa@12345@gmail.com](mailto:atulupa12345@gmail.com)  
 🐙 **GitHub:** [Upadhyay123a](https://github.com/Upadhyay123a)  
 📊 **LeetCode:** [Atul Upadhyay](https://leetcode.com/u/Atul_upadhyay_24/)  
 
