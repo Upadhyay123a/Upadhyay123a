@@ -108,7 +108,7 @@
 
 ## 📬 Connect with Me  
 💼 **LinkedIn:** [Atul Upadhyay](https://www.linkedin.com/in/atul-kumar-upadhyay-676373211)  
-📧 **Email:** [atulupa@12345@gmail.com](mailto:atulupa12345@gmail.com)  
+📧 **Email:** [atulupa12345@gmail.com](mailto:atulupa12345@gmail.com)  
 🐙 **GitHub:** [Upadhyay123a](https://github.com/Upadhyay123a)  
 📊 **LeetCode:** [Atul Upadhyay](https://leetcode.com/u/Atul_upadhyay_24/)  
 
@@ -116,9 +116,9 @@
 
 ## 🏆 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Upadhyay123a&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Upadhyay123a&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upadhyay123a&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Upadhyay123a&layout=compact&theme=tokyonight)
 
 ---
 
