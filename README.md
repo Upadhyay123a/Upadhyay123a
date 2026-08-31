@@ -7,7 +7,7 @@
 🔹 Passionate **Full Stack Java Developer** skilled in **Java, Python, C, Spring Boot, Django, Flask, OWASP TOP 10, JavaScript, React.js, HTML, CSS, SQL, PostgreSQL, Docker, CI/CD, GitHub, and MongoDB**.  
 
 🔹 **Equity Trader** with expertise in **financial markets, stock analysis, and trading strategies**.  
-🔹 **B.Tech (CSE 2025)** Passout with strong **Data Structures & Algorithms (Java, C, JavaScript)** skills.  
+🔹 **B.Tech (CSE 2025)** Passout with strong **Data Structures & Algorithms (Java, C, Python JavaScript)** skills.  
 🔹 Currently **building a Groww-like investment platform** named **InvestWise** using **Java, Spring Boot, PostgreSQL, and JavaScript**.  
 
 💡 Always eager to explore new technologies and contribute to open-source projects.
